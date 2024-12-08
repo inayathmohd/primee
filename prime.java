@@ -1,4 +1,4 @@
-public class PrimeChecker {
+public class Prime{
     public static void main(String[] args) {
         // Input: Set the number directly in the code
         int number = 17; // Change this value to check another number
